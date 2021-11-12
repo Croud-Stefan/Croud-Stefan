@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Croud-Stefan
+- 👋 Hi, I’m @stefanatcroud
 - 👀 I’m interested in Google Tag Manager, consent tool integration with Google Consent Mode and Google Analytics.
 - 🌱 I’m currently learning all of the above
