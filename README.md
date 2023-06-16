@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @stefanatcroud
-- 👀 I’m interested in Google Tag Manager, consent tool integration with Google Consent Mode and Google Analytics.
-- 🌱 I’m currently learning all of the above
+- 👀 I’m interested in GTM API, GA4 API, automation and a little front-end for building tools.
