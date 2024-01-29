@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @stefanatcroud
+- 👋 Hi, I’m @stefanatcroud and I'm also @digitalstefan in my free time
 - 👀 I’m interested in GTM API, GA4 API, automation and a little front-end for building tools.
